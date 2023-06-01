@@ -1,0 +1,3 @@
+[submodule "lua/lua-yaml"]
+	path = lua/lua-yaml
+	url = https://github.com/exosite/lua-yaml
